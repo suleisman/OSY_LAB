@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab3_child.dir/src/child.cpp.o CMakeFiles/lab3_child.dir/src/utils.cpp.o -o lab3_child 
